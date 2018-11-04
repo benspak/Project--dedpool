@@ -14,21 +14,17 @@
 *[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
 ### Proposed Dashboard
-
-![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)
-
+![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)<br>
 [Dashboard Design Demo](https://colorlib.com/polygon/gentelella/index.html)<br>
 *[Dash Repo](https://github.com/puikinsh/gentelella)*
 
 ## Goals: 
-
 1. Mitigate bio-matter from entering water ways.
 1. Capture NPK (Nitrogen, Phosphorus, Potassium) readings & send to reporting dashboard.
 1. Monitor Baffle Box contents & report when it needs to be emptied.
 1. Empower biologists with additional data that may one day lead to accurate bloom prediction.
 
 ## Selling Points
-
 + Savings - Less manpower for labor intensive sampling
 + Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
 
@@ -36,7 +32,6 @@
 + [HydroCycle-PO4 Phosphate Sensor](https://www.ott.com/products/water-quality-2/sea-bird-scientific-hydrocycle-po4-phosphate-sensor-1528/)
 
 ## Open Questions:
-
 Location: <br>
 + Where to locate the baffle box's for maximum effectiveness?
   + A centralized location for neighborhood storm drains.
