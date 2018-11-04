@@ -32,17 +32,19 @@
 + Savings - Less manpower for labor intensive sampling
 + Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
 
-## Data Collection & Reporting
-
-Reporting Dashboard - Alerting
+## Proposed Sensors:
++ [HydroCycle-PO4 Phosphate Sensor](https://www.ott.com/products/water-quality-2/sea-bird-scientific-hydrocycle-po4-phosphate-sensor-1528/)
 
 ## Open Questions:
 
 Location: <br>
 + Where to locate the baffle box's for maximum effectiveness?
+  + A centralized location for neighborhood storm drains.
 
 Power - Solar: <br>
 + How much power do we need to operate the sensors?
+  + Input 	10.5 ... 18 VDC (HC-PO4)
+  + Current draw	3.0 A max; 115 mA avg (HC-PO4)
 
 Communication - LTE: <br>
 + Who's our service provider?
@@ -50,22 +52,14 @@ Communication - LTE: <br>
 
 Data Collection, Reporting & Storage:<br>
 + How often do we sample NPK readings?
-+ How often do we sycn & report NPK readings?
+  + Every 30 Minutes
++ How often do we sync & report NPK readings?
+  + Immediately after samples are analysed.
 + How much local storage do we need?
-
-Proposed: [HydroCycle-PO4 Phosphate Sensor](https://www.ott.com/products/water-quality-2/sea-bird-scientific-hydrocycle-po4-phosphate-sensor-1528/)
+  + 1 GB (HC-PO4)
 
 Time to Failure: <br>
 + How often will sensors need to be replaced?
+  + 5-month reagent life (HC-PO4)
 + How much do new sensors cost?
-  + Can we buy in bulk @ a discount?
-+ 
-
-1. What is a good phosphate limit for sensor to alert? <br>
-https://www.epa.gov/tmdl
-
-2. what is the dashboard built on?
-+ https://www.klipfolio.com/choosing-the-right-dashboard-report
-+ https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
-
-3. Alerting system?
++ Can we buy in bulk @ a discount?
