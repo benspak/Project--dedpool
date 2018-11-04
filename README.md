@@ -6,10 +6,10 @@
 + Michael Reynolds – Research & Front End --[GitHub](https://github.com/mtr2d2)
 + Benjamin Spak – Front End, UI --[GitHub](https://github.com/benjaminspak)
 
-### Presentation:<br>
+### Presentation:
 [Power Point on Google Docs](https://docs.google.com/presentation/d/1CK26NB1X4vNG2jegQrSVSiIEJsfuiqYPBdTMh-MAKpc/edit?usp=sharing)
 
-### Additional Resources:<br>
+### Additional Resources:
 [DedPool - Hack the IRL Project -- Thoughts process debrief](https://youtu.be/vHDMbWkQup8)<br>
 *[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
