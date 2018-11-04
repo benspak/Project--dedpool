@@ -53,6 +53,8 @@ Data Collection, Reporting & Storage:<br>
 + How often do we sycn & report NPK readings?
 + How much local storage do we need?
 
+Proposed: [HydroCycle-PO4 Phosphate Sensor](https://www.ott.com/products/water-quality-2/sea-bird-scientific-hydrocycle-po4-phosphate-sensor-1528/)
+
 Time to Failure: <br>
 + How often will sensors need to be replaced?
 + How much do new sensors cost?
