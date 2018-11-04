@@ -5,10 +5,10 @@ Thoughts process debrief:<br>
 *[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
 Team:<br>
-+ Brian Balboa – Research Lead, & Innovation[GitHub](https://github.com/bbalboa)
-+ Dakarai Simmons – Back/Front End[GitHub](https://github.com/infinitelyCannon)
-+ Michael Reynolds – Research & Front End[GitHub](https://github.com/mtr2d2)
-+ Benjamin Spak – Front End, UI [GitHub](https://github.com/benjaminspak)
++ Brian Balboa – Research Lead, & Innovation -- [GitHub](https://github.com/bbalboa)
++ Dakarai Simmons – Back/Front End --[GitHub](https://github.com/infinitelyCannon)
++ Michael Reynolds – Research & Front End --[GitHub](https://github.com/mtr2d2)
++ Benjamin Spak – Front End, UI --[GitHub](https://github.com/benjaminspak)
 
 ### Proposed Dashboard
 
