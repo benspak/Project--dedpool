@@ -1,12 +1,15 @@
 # HACKTHEIRL - Team Dedpool - Smart Baffle Box
 
 Thoughts process debrief:
-[DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)
+[DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)<br>
+*[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
 ### Proposed Dashboard
 
 ![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)
-[Dashboard Design Demo](https://colorlib.com/polygon/gentelella/index.html)
+
+[Dashboard Design Demo](https://colorlib.com/polygon/gentelella/index.html)<br>
+[Dash Repo](https://github.com/puikinsh/gentelella)
 
 ## Goals: 
 
