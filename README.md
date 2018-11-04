@@ -3,6 +3,10 @@
 Thoughts process debrief:
 [DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)
 
+### Proposed Dashboard
+
+![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)
+
 ## Goals: 
 
 1. Mitigate bio-matter from entering water ways.
