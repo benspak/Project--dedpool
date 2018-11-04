@@ -6,6 +6,7 @@ Thoughts process debrief:
 ### Proposed Dashboard
 
 ![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)
+[Dashboard Design Demo](https://colorlib.com/polygon/gentelella/index.html)
 
 ## Goals: 
 
