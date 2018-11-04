@@ -10,7 +10,7 @@
 [Power Point on Google Docs](https://docs.google.com/presentation/d/1CK26NB1X4vNG2jegQrSVSiIEJsfuiqYPBdTMh-MAKpc/edit?usp=sharing)
 
 ### Additional Resources:
-[DedPool - Hack the IRL Project -- Thoughts process debrief](https://youtu.be/vHDMbWkQup8)<br>
+[DedPool - Hack the IRL Project -- Thought process debrief](https://youtu.be/vHDMbWkQup8)<br>
 *[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
 ### Proposed Dashboard
