@@ -1,14 +1,17 @@
 # HACKTHEIRL - Team Dedpool - Smart Baffle Box
 
-Thoughts process debrief:<br>
-[DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)<br>
-*[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
-
-Team:<br>
+### Team:
 + Brian Balboa – Research Lead, & Innovation -- [GitHub](https://github.com/bbalboa)
 + Dakarai Simmons – Back/Front End --[GitHub](https://github.com/infinitelyCannon)
 + Michael Reynolds – Research & Front End --[GitHub](https://github.com/mtr2d2)
 + Benjamin Spak – Front End, UI --[GitHub](https://github.com/benjaminspak)
+
+### Presentation:<br>
+[Power Point on Google Docs](https://docs.google.com/presentation/d/1CK26NB1X4vNG2jegQrSVSiIEJsfuiqYPBdTMh-MAKpc/edit?usp=sharing)
+
+### Additional Resources:<br>
+[DedPool - Hack the IRL Project -- Thoughts process debrief](https://youtu.be/vHDMbWkQup8)<br>
+*[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
 ### Proposed Dashboard
 
