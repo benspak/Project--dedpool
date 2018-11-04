@@ -27,6 +27,15 @@
 1. Monitor Baffle Box contents & report when it needs to be emptied.
 1. Empower biologists with additional data that may one day lead to accurate bloom prediction.
 
+## Selling Points
+
++ Savings - Less manpower for labor intensive sampling
++ Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
+
+## Data Collection & Reporting
+
+Reporting Dashboard - Alerting
+
 ## Open Questions:
 
 Location: <br>
@@ -58,12 +67,3 @@ https://www.epa.gov/tmdl
 + https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
 
 3. Alerting system?
-
-## Selling Points
-
-+ Savings - Less manpower for labor intensive sampling
-+ Keep people healthy - protect against disease clusters -- Alzheimer's - BMAA (NueroToxin) - & liver damage primarily.
-
-## Data Collection & Reporting
-
-Reporting Dashboard - Alerting
