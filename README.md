@@ -4,6 +4,12 @@ Thoughts process debrief:<br>
 [DedPool - Hack the IRL Project -- Vlog 11.3.2018 -- Benjamin Spak](https://youtu.be/vHDMbWkQup8)<br>
 *[DedPool GitHub Repo](https://github.com/benjaminspak/dedpool)*
 
+Team:<br>
++ Benjamin Spak – Front End, UI
++ Brian Balboa – Research, UX & Innovation
++ Dakarai Simmons – Back/Front End
++ Michael Reynolds – Research & Front End
+
 ### Proposed Dashboard
 
 ![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg)
